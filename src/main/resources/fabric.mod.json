@@ -3,8 +3,8 @@
   "id": "audaki_cart_engine",
   "version": "${version}",
 
-  "name": "Audaki Cart Engine",
-  "description": "Audaki Cart Engine: Improved & Faster Minecarts (Vanilla Carts, Balanced for Survival)",
+  "name": "Real Boosted Audaki Cart Engine",
+  "description": "Real Boosted Audaki Cart Engine: Improved & Faster Minecarts (Vanilla Carts, Balanced for Real Survival SMP)",
 
   "authors": [{
     "name": "Audaki",
@@ -17,7 +17,8 @@
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine",
     "sources": "https://github.com/audaki/minecraft-cart-engine",
     "issues": "https://github.com/audaki/minecraft-cart-engine/issues",
-    "wiki": "https://github.com/audaki/minecraft-cart-engine/wiki"
+    "wiki": "https://github.com/audaki/minecraft-cart-engine/wiki",
+    "fork": "https://github.com/Lupancham/minecraft-cart-engine-boosted"
   },
 
   "license": "CC0-1.0",

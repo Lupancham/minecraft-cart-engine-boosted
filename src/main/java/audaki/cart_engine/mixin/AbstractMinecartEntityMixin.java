@@ -103,10 +103,10 @@ public abstract class AbstractMinecartEntityMixin extends Entity {
 //        Level level = this.level();
 
         final double tps = 20.;
-        final double maxSpeed = 34. / tps;
-        final double maxMomentum = maxSpeed * 5.;
-        final double vanillaMaxSpeed = 8. / tps;
-        final double vanillaMaxMomentum = 40. / tps;
+        final double maxSpeed = 10000. / tps;
+        final double maxMomentum = maxSpeed * 10000.;
+        final double vanillaMaxSpeed = 1. / tps;
+        final double vanillaMaxMomentum = 1. / tps;
 
         /*
          From 1.18 resetFallDistance() is used, but for backwards compatibility we copied the code
